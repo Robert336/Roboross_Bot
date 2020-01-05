@@ -57,6 +57,8 @@ class AudioCmds(commands.Cog):
             if ctx.voice_client is not None:
                 return await ctx.voice_client.move_to(channel)
 
+
+
             await channel.connect()
 
             source = discord.PCMVolumeTransformer(

@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Roboross" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VXoceca72uik10djd5eKAJZbpi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -96,7 +96,7 @@
       <workItem from="1577939005629" duration="643000" />
       <workItem from="1578178804764" duration="4801000" />
       <workItem from="1578184068828" duration="42000" />
-      <workItem from="1578184605671" duration="245000" />
+      <workItem from="1578184605671" duration="594000" />
     </task>
     <servers />
   </component>
