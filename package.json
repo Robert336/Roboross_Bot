@@ -1,0 +1,8 @@
+{
+"name": "Sauce Bot",
+"version": "1.0.0",
+"description": "Because I'm bored",
+"main": "bot.py",
+"author": "Robert (Clutch)",
+"dependencies": {}
+}
