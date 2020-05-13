@@ -7,8 +7,6 @@
  
  `~hello [name]` plays specific audio clips associated with the name
  
- Names:
- `luke`
+ Names Supported:
  `david`
- `kyle`
  
