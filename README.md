@@ -10,3 +10,4 @@
  Names Supported:
  `david`
  
+ '~random` randomly selects a message from the text channel and resends it out of context
