@@ -7,7 +7,7 @@
  
  `~hello [name]` plays specific audio clips associated with the name
  
- Names Supported:
- `david`
+  Names Supported:
+  `david`
  
  `~random` randomly selects a message from the text channel and resends it out of context
